@@ -15,7 +15,7 @@
 ## 起動方法
 
 ```bash
-cd C:\Users\y-okawa\Desktop\appsetting\inakuro-db
+cd inakuro-db
 npm install       # 初回のみ
 npm run dev       # 開発サーバー起動 → http://localhost:3000
 ```
